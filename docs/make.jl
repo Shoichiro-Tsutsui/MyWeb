@@ -1,5 +1,6 @@
 using MyWeb
 using Documenter
+using DocumenterTools: Themes
 
 # Generate Sass files.
 for w in ("light", "dark")
