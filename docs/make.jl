@@ -3,9 +3,11 @@ using Documenter
 
 makedocs(;
     modules=[MyWeb],
-    authors="tsutsui <shoppa99.nanone@hotmail.co.jp> and contributors",
     repo="https://github.com/Shoichiro-Tsutsui/MyWeb.jl/blob/{commit}{path}#L{line}",
-    sitename="MyWeb.jl",
+    sitename = "Shoichiro Tsutsui's Web Page",
+    authors = "Shoichiro Tsutsui",
+    doctest = false,
+    linkcheck = false,
     format=Documenter.HTML(;
         prettyurls=get(ENV, "CI", "false") == "true",
         canonical="https://Shoichiro-Tsutsui.github.io/MyWeb.jl",
