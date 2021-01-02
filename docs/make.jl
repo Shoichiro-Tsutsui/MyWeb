@@ -1,6 +1,18 @@
 using MyWeb
 using Documenter
 
+# Generate Sass files.
+for w in ("light", "dark")
+    header = read(joinpath(@__DIR__, "style.scss"), String)
+    theme = read(joinpath(@__DIR__, "$(w)defs.scss"), String)
+    write(joinpath(@__DIR__, "$(w).scss"), header*"\n"*theme)
+end
+
+# Compile Sass files.
+using DocumenterTools: Themes
+Themes.compile(joinpath(@__DIR__, "light.scss"), joinpath(@__DIR__, "src/assets/themes/documenter-light.css"))
+Themes.compile(joinpath(@__DIR__, "dark.scss"), joinpath(@__DIR__, "src/assets/themes/documenter-dark.css"))
+
 makedocs(;
     modules=[MyWeb],
     repo="https://github.com/Shoichiro-Tsutsui/MyWeb.jl/blob/{commit}{path}#L{line}",
