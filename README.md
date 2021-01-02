@@ -6,3 +6,7 @@
 [![Coverage](https://codecov.io/gh/Shoichiro-Tsutsui/MyWeb.jl/branch/master/graph/badge.svg)](https://codecov.io/gh/Shoichiro-Tsutsui/MyWeb.jl)
 
 This package generates [Shoichiro Tsutsui's web page](https://shoichiro-tsutsui.github.io/MyWeb.jl/stable).
+
+
+## Note
+- docs/make.jl 中でJuliaのパッケージを使用する場合、docs/Project.toml を編集する必要がある。（travisでパッケージが見つかりませんエラーが出る。）
