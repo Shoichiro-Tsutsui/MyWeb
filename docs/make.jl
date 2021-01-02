@@ -10,7 +10,6 @@ for w in ("light", "dark")
 end
 
 # Compile Sass files.
-using DocumenterTools: Themes
 Themes.compile(joinpath(@__DIR__, "light.scss"), joinpath(@__DIR__, "src/assets/themes/documenter-light.css"))
 Themes.compile(joinpath(@__DIR__, "dark.scss"), joinpath(@__DIR__, "src/assets/themes/documenter-dark.css"))
 
