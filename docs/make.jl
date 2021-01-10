@@ -29,7 +29,7 @@ makedocs(;
         "Home" => "index.md",
         "CV" => "cv.md",
         "Publications" => "publications.md",
-        "Presentationss" => "presentations.md",
+        "Presentations" => "presentations.md",
         "Links" => "links.md"
     ],
 )
