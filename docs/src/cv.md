@@ -19,7 +19,7 @@ View Shoichiro Tsutsui's CV on [Researchmap](https://researchmap.jp/stsutsui?lan
 - Apr. 2008 - Mar. 2012: Undergraduate student, Department of Science, Kyoto University
 
 
-## Grands and Fellowships
+## Grants and Fellowships
 - Apr. 2014 - Mar. 2017: Japan Society for the Promotion of Science (JSPS) Research Fellowships for Young Scientists ([No.14J03462](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-14J03462/))
 
 
