@@ -43,7 +43,7 @@
 
 ## Domestic Conference in Japan
 ### Invited talks
-- "Introduction to lattice QCD", [Tutorial workshop for heavy ion collisions](https://indico2.cns.s.u-tokyo.ac.jp/event/72/), RIKEN, Wako, Sug. 20, 2019.
+- "Introduction to lattice QCD", [Tutorial workshop for heavy ion collisions](https://indico2.cns.s.u-tokyo.ac.jp/event/72/), RIKEN, Wako, Aug. 20, 2019.
 
 - "On a dynamical formation of the Bose-Einstein condensate", [Thermal quantum field theory and its applications](http://www.riise.hiroshima-u.ac.jp/TQFT/html2016/tqft2016.html), RIKEN Wako, Aug. 24, 2016.
 
