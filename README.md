@@ -23,28 +23,15 @@ julia> include("docs/make.jl")'
 julia> using LiveServer
 julia> serve(dir="docs/build")
 ```
-すると
-```
-[ Info: add the public key below to https://github.com/Shoichiro-Tsutsui/MyWeb.jl/settings/keys with read/write access:
-
-ssh-rsa （文字列） Documenter
-
-[ Info: add a secure environment variable named 'DOCUMENTER_KEY' to https://travis-ci.com/Shoichiro-Tsutsui/MyWeb.jl/settings (if you deploy using Travis CI)
-or https://github.com/Shoichiro-Tsutsui/MyWeb.jl/settings/secrets (if you deploy using GitHub Actions) with value:
-
-（長い文字列）
-```
-が出力される。前者を`Settings/Deploy keys`に`Allow write access`にチェックはを入れて登録し、
-後者を`Settings/Secrets/Environment secrets `に`DOCUMENTER_KEY`の名で登録する。
 
 
 
 ## 自動デプロイ
-ssh認証のための鍵を生成する
-```
-julia> using DocumenterTools
-julia> DocumenterTools.genkeys(MyWeb)
-```
+GitHub Actionを使う。`GITHUB_TOKEN`で認証する。
+`push`すると、`dev`バージョンのドキュメントが更新される。
+次に`code/Releases`から`Draft a new release`を押し、適当にリリース内容を入力して`Publish release`する。
+このとき、リリースバージョンは`v1.x`のようにする。すると再びworkflowが走り、`stable`バージョンのドキュメントが更新される。
+
 
 ## Note
 - `docs/make.jl` 中でJuliaのパッケージを使用する場合、docs/Project.toml を編集する必要がある。（travisでパッケージが見つかりませんエラーが出る。）
