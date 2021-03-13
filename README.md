@@ -34,7 +34,8 @@ or https://github.com/Shoichiro-Tsutsui/MyWeb.jl/settings/secrets (if you deploy
 
 （長い文字列）
 ```
-が出力される。前者を`Settings/Deploy keys`に登録し、後者を`Settings/Secrets/Environment secrets `に`DOCUMENTER_KEY`の名で登録する。
+が出力される。前者を`Settings/Deploy keys`に`Allow write access`にチェックはを入れて登録し、
+後者を`Settings/Secrets/Environment secrets `に`DOCUMENTER_KEY`の名で登録する。
 
 
 
