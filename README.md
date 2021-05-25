@@ -35,3 +35,4 @@ GitHub Actionを使う。`GITHUB_TOKEN`で認証する。
 
 ## Note
 - `docs/make.jl` 中でJuliaのパッケージを使用する場合、docs/Project.toml を編集する必要がある。（travisでパッケージが見つかりませんエラーが出る。）
+- 一定期間(60日？)触ってないとworkflowが無効になるっぽい。
