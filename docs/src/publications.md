@@ -26,11 +26,9 @@ View publications on [INSPIRE](https://inspirehep.net/author/profile/S.Tsutsui.1
 ## Proceedings
 - Shoichiro Tsutsui, Yuta Ito, Hideo Matsufuru, Jun Nishimura, Shinji Shimasaki, Asato Tsuchiya, "Exploring the Finite Density QCD Based on the Complex Langevin Method", [JPS Conf.Proc. 26 (2019) 024012](https://doi.org/10.7566/JPSCP.26.024012).
 
-- Shoichiro Tsutsui, Yuta Ito, Hideo Matsufuru, Jun Nishimura, Shinji Shimasaki, Asato Tsuchiya, "Exploring the QCD phase diagram at finite density by the complex Langevin method on a ``16^3×32`` lattice",
-PoS LATTICE2019 (2019) 151, [[arXiv:1912.00361]](https://arxiv.org/abs/1912.00361).
+- Shoichiro Tsutsui, Yuta Ito, Hideo Matsufuru, Jun Nishimura, Shinji Shimasaki, Asato Tsuchiya, "Exploring the QCD phase diagram at finite density by the complex Langevin method on a ``16^3×32`` lattice", PoS LATTICE2019 (2019) 151, [[arXiv:1912.00361]](https://arxiv.org/abs/1912.00361).
 
-- Yuta Ito, Hideo Matsufuru, Jun Nishimura, Shinji Shimasaki, Asato Tsuchiya and Shoichiro Tsutsui, "Exploring the phase diagram of finite density QCD at low temperature by the complex Langevin method",
-PoS LATTICE2018 (2018) 146, [[arXiv:1811.12688]](https://arxiv.org/abs/1811.12688).
+- Yuta Ito, Hideo Matsufuru, Jun Nishimura, Shinji Shimasaki, Asato Tsuchiya and Shoichiro Tsutsui, "Exploring the phase diagram of finite density QCD at low temperature by the complex Langevin method", PoS LATTICE2018 (2018) 146, [[arXiv:1811.12688]](https://arxiv.org/abs/1811.12688).
 
 - Shoichiro Tsutsui, Yuta Ito, Hideo Matsufuru, Jun Nishimura, Shinji Shimasaki and Asato Tsuchiya, "Can the complex Langevin method see the deconfinement phase transition in QCD at finite density?", PoS LATTICE2018 (2018) 144, [[arXiv:1811.07647]](https://arxiv.org/abs/1811.07647).
 

@@ -48,6 +48,8 @@
 - "On a dynamical formation of the Bose-Einstein condensate", [Thermal quantum field theory and its applications](http://www.riise.hiroshima-u.ac.jp/TQFT/html2016/tqft2016.html), RIKEN Wako, Aug. 24, 2016.
 
 ### Talks
+- "Towards the investigation of color superconductivity based on complex Langevin method", [The Physical Society of Japan annual meeting](https://w4.gakkai-web.net/jps_search/2021sp/data/html/programrk.html#j13pU1), online, Mar. 13, 2021.
+
 - "Towards Complex Langevin simulations in superfluid phases", [Workshop for Clustering as a window on the hierarchical structure of quantum systems](http://be.nucl.ap.titech.ac.jp/cluster/symposium/257/), online, Sep. 25, 2020.
 
 - "Lattice formulation of spin-1/2 cold gases in the Cooper channel", [The Physical Society of Japan fall meeting](https://w4.gakkai-web.net/jps_search/2020au/data/html/program01.html), online, Sep. 8, 2020.
@@ -78,6 +80,8 @@
 
 
 ### Posters
+- "Application of the Complex Langevin method to cold Fermi gasses", [KEK workshop](https://www-conf.kek.jp/joint-colloquium/index.html), online, Mar. 29, 2021.
+
 - "Complex Langevin study of an attractively interacting two-component Fermi gas in 1D with population imbalance", [Thermal quantum field theory and its applications](https://w4.gakkai-web.net/jps_search/2016sp/index.html), online, Aug. 26, 2020.
 
 - "Complex Langevin method for the Gaudin-Yang model", [Thermal quantum field theory and its applications](http://www.riise.hiroshima-u.ac.jp/TQFT/html2019/tqft2019.html#), YITP Kyoto Univ., Sep. 2, 2019.
