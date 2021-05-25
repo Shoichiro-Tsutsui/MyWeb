@@ -2,7 +2,9 @@
 View publications on [INSPIRE](https://inspirehep.net/author/profile/S.Tsutsui.1?ln=ja).
 
 ## Papers
-- Hiroyuki Tajima, Shoichiro Tsutsui, Takahiro M. Doi, Kei Iida, "Cooper Triples in Attractive SU(3) Fermions with an Asymptotic Freedom", [[arXiv:2012.03627]](https://arxiv.org/abs/2012.03627).
+- Takahiro M. Doi, Hiroyuki Tajima and Shoichiro Tsutsui, "Complex Langevin study for polarons in an attractively interacting one-dimensional two-component Fermi gas", [[arXiv:2105.11072]](https://arxiv.org/abs/2105.11072).
+
+- Hiroyuki Tajima, Shoichiro Tsutsui, Takahiro M. Doi and Kei Iida, "Cooper Triples in Attractive SU(3) Fermions with an Asymptotic Freedom", [[arXiv:2012.03627]](https://arxiv.org/abs/2012.03627).
 
 - Yuta Ito, Hideo Matsufuru, Yusuke Namekawa, Jun Nishimura, Shinji Shimasaki, Asato Tsuchiya, Shoichiro Tsutsui, "Complex Langevin calculations in QCD at finite density", [JHEP 10 (2020) 144](https://doi.org/10.1007/JHEP10(2020)144), [[arXiv:2007.08778]](https://arxiv.org/abs/2007.08778).
 
